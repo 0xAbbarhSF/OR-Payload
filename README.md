@@ -1,6 +1,4 @@
-<a href="https://www.buymeacoffee.com/cujanovic" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-[I'm grateful for the support received by Tutanota](https://tutanota.com/)
+- 🕊️ [@0xAbbarhSF](https://twitter.com/0xAbbarhSF) <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 
 # Open Redirect Payloads
 Payloads from BB reports for Open Redirect
